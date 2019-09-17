@@ -6,6 +6,7 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -37,11 +38,30 @@ class WorkingWithActions {
 	}
 
 	@Test
-	void test() {
+	void moveMouseWithAlert() throws InterruptedException {
 		driver.get("http://book.theautomatedtester.co.uk/");
 		driver.findElement(By.linkText("Chapter4")).click();
 		WebElement mouseOver = driver.findElement(By.id("hoverOver"));
-		builder.moveToElement(mouseOver);
+		builder.moveToElement(mouseOver).perform();
+		
+		Thread.sleep(3000);
+		
+		Alert alert = driver.switchTo().alert();
+		
+		alert.accept();
+	}
+	@Test
+	void moveMouthWithOffset(){
+		driver.navigate().to("https://www.webminal.org/");
+		WebElement button = driver.findElement(By.linkText("Register"));
+		builder.moveByOffset(button.getLocation().getX() + 6, button.getLocation().getY() + 6)
+			.click()
+			.perform();
+		
+		assertEquals("Join", driver.findElement(By.xpath("//h2[contains(text(),'Join')]")).getText());
+		
+		
+		
 	}
 
 }
