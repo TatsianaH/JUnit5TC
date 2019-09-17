@@ -1,0 +1,56 @@
+package com.selenium;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+
+class ElementStates {
+	private WebDriver driver;
+
+	@BeforeAll
+	static void setUpBeforeClass() throws Exception {
+		WebDriverManager.chromedriver().setup();// firefoxdriver можно тоже
+	}
+
+	@BeforeEach
+	void setUp() throws Exception {
+
+		driver = new ChromeDriver();// FirefoxDriver() можно тоже для другого браузера
+		driver.get("http://book.theautomatedtester.co.uk/");
+		driver.manage().window().maximize();
+	}
+
+	@AfterEach
+	void tearDown() throws Exception {
+		driver.quit();
+	}
+
+	@Test
+	void gettingStates() {
+		driver.findElement(By.linkText("Chapter1")).click();
+		WebElement checkbox = driver.findElement(By.name("selected(1234)"));
+		assertTrue(checkbox.isDisplayed());
+		checkbox.click();
+		assertTrue(checkbox.isSelected());
+		
+	}
+	@Test
+	void readingInputField() {
+		WebElement textbox = driver.findElement(By.id("q"));
+		textbox.sendKeys("Java");
+		String text = textbox.getAttribute("value");
+		assertEquals("Java", text);	
+	}
+	
+	
+
+}

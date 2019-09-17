@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Links (1)" project="Remote" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.selenium.Links" time="6.559" displayname="Links" uniqueid="[engine:junit-jupiter]/[class:com.selenium.Links]">
+    <testcase name="getPageHTML" classname="com.selenium.Links" time="3.748" displayname="getPageHTML()" uniqueid="[engine:junit-jupiter]/[class:com.selenium.Links]/[method:getPageHTML()]"/>
+    <testcase name="test" classname="com.selenium.Links" time="2.811" displayname="test()" uniqueid="[engine:junit-jupiter]/[class:com.selenium.Links]/[method:test()]"/>
+  </testsuite>
+</testrun>

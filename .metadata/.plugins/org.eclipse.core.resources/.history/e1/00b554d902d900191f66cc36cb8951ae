@@ -1,0 +1,19 @@
+package com.selenium;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.net.URL;
+
+import org.junit.jupiter.api.Test;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.remote.RemoteWebDriver;
+
+class Grid {
+private WebDriver driver;
+
+	@Test
+	void testInChrome() {
+		driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"));
+	}
+
+}
