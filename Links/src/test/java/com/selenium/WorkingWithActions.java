@@ -8,6 +8,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
@@ -39,6 +40,8 @@ class WorkingWithActions {
 	void test() {
 		driver.get("http://book.theautomatedtester.co.uk/");
 		driver.findElement(By.linkText("Chapter4")).click();
+		WebElement mouseOver = driver.findElement(By.id("hoverOver"));
+		builder.moveToElement(mouseOver);
 	}
 
 }
