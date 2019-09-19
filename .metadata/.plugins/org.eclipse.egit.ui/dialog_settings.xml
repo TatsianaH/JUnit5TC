@@ -10,12 +10,12 @@
 		<item value="github.com"/>
 	</list>
 	<list key="CommitDialog.authorValues">
-		<item value="TatsianaH &lt;ourflsun@gmail.com&gt;"/>
 		<item value="TatsianaH &lt;QA4success&gt;"/>
+		<item value="TatsianaH &lt;ourflsun@gmail.com&gt;"/>
 	</list>
 	<list key="CommitDialog.committerValues">
-		<item value="TatsianaH &lt;ourflsun@gmail.com&gt;"/>
 		<item value="TatsianaH &lt;QA4success&gt;"/>
+		<item value="TatsianaH &lt;ourflsun@gmail.com&gt;"/>
 	</list>
 	<section name="GitCommitSearchPage">
 		<item key="HISTORY_SIZE" value="0"/>

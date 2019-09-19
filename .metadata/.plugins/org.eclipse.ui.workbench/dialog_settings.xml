@@ -32,4 +32,6 @@
 		<item key="EditorSelectionDialog.STORE_ID_INTERNAL_EXTERNAL" value="true"/>
 		<item key="EditorSelectionDialog.STORE_ID_DESCR" value="/Users/tatsianahantsevich/Desktop/Eclipse.app"/>
 	</section>
+	<section name="ImportExportAction">
+	</section>
 </section>

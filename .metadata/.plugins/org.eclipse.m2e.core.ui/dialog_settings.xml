@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC"/>
 			<item value="/Users/tatsianahantsevich/Documents/EclipseProjects/Honey"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,11 +27,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.abbreviate"/>
 			<item value="Links"/>
 		</list>
 		<list key="groupId">
+			<item value="com.abbreviate"/>
 		</list>
 		<list key="artifactId">
+			<item value="Abbreviate"/>
 			<item value="Links"/>
 		</list>
 		<list key="projectNameTemplate">

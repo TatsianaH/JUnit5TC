@@ -1,2 +1,2 @@
-commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>\# WARNING\: head commit changed in the meantime&\#x0A;&\#x0A;added new JUnit test cases</message>\n<message>added new project Links</message>\n</messages>
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>added file</message>\n<message>\# WARNING\: head commit changed in the meantime&\#x0A;&\#x0A;added new JUnit test cases</message>\n<message>added new project Links</message>\n</messages>
 eclipse.preferences.version=1
