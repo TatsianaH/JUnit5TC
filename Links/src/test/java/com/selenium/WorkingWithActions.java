@@ -21,7 +21,7 @@ class WorkingWithActions {
 
 	@BeforeAll
 	static void setUpBeforeClass() throws Exception {
-		WebDriverManager.chromedriver().setup();
+	WebDriverManager.chromedriver().setup();
 	}
 
 	@BeforeEach
@@ -58,10 +58,7 @@ class WorkingWithActions {
 			.click()
 			.perform();
 		
-		assertEquals("Join", driver.findElement(By.xpath("//h2[contains(text(),'Join')]")).getText());
-		
-		
-		
+		assertEquals("Join", driver.findElement(By.xpath("//h2[contains(text(),'Join')]")).getText());		
 	}
 
 }

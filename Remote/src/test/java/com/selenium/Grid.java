@@ -19,7 +19,7 @@ private WebDriver driver;
 	void testInChrome() throws MalformedURLException {
 		DesiredCapabilities capabilities = new DesiredCapabilities();
 		capabilities.setBrowserName("chrome");
-		capabilities.setPlatform(Platform.MOJAVE);
+		//capabilities.setPlatform(Platform.MOJAVE);
 		driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capabilities);
 	driver.get("https://www.kmart.com");	
 	}

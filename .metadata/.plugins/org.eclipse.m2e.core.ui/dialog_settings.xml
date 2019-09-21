@@ -27,13 +27,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.unit_test"/>
+			<item value="com.pasv"/>
 			<item value="com.abbreviate"/>
 			<item value="Links"/>
 		</list>
 		<list key="groupId">
+			<item value="com"/>
+			<item value="com.pasv"/>
 			<item value="com.abbreviate"/>
 		</list>
 		<list key="artifactId">
+			<item value="unit_test"/>
 			<item value="Abbreviate"/>
 			<item value="Links"/>
 		</list>

@@ -19,7 +19,7 @@ void setUp() throws MalformedURLException {
 	DesiredCapabilities capabilities = new DesiredCapabilities();
 	capabilities.setBrowserName("chrome");
 	driver = new RemoteWebDriver(new URL("http://127.0.0.1:4444/wd/hub"), capabilities);
-	//127.0.0.1 local ip address for each computer by default -> localhost
+	//127.0.0.1 local ip address for each computer by default, localhost:4444 enter to address bar
 	
 	driver.manage().window().maximize();	
 }
