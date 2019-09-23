@@ -20,10 +20,10 @@ class WithoutPO extends Base{
 	
 	//private WebDriver driver;
 	
-	@BeforeAll
+	/*@BeforeAll
 	static void setUpBeforeClass() throws Exception {
 		WebDriverManager.chromedriver().setup();
-}
+}*/
 
 	
 	@BeforeEach

@@ -19,10 +19,10 @@ class WorkingWithActions {
 	private WebDriver driver;
 	private Actions builder;
 
-	@BeforeAll
-	static void setUpBeforeClass() throws Exception {
-	WebDriverManager.chromedriver().setup();
-	}
+//	@BeforeAll
+//	static void setUpBeforeClass() throws Exception {
+//	WebDriverManager.chromedriver().setup();
+//	}
 
 	@BeforeEach
 	void setUp() throws Exception {

@@ -27,17 +27,20 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.selenium"/>
 			<item value="com.unit_test"/>
 			<item value="com.pasv"/>
 			<item value="com.abbreviate"/>
 			<item value="Links"/>
 		</list>
 		<list key="groupId">
+			<item value="com.selenium"/>
 			<item value="com"/>
 			<item value="com.pasv"/>
 			<item value="com.abbreviate"/>
 		</list>
 		<list key="artifactId">
+			<item value="Final"/>
 			<item value="unit_test"/>
 			<item value="Abbreviate"/>
 			<item value="Links"/>
@@ -74,6 +77,14 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
