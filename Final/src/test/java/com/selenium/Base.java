@@ -1,5 +1,6 @@
 package com.selenium;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -11,6 +12,14 @@ public class Base {
 
 	protected void clickElement(WebElement element) {
 		WebDriverWait wait = new WebDriverWait(driver, 10);
-		wait.until(ExpectedConditions.elementToBeClickable(element)).click();
+		wait.until(ExpectedConditions
+				.elementToBeClickable(element))
+				.click();
+	};
+	protected void clickElement(By element) {
+		WebDriverWait wait = new WebDriverWait(driver, 10);
+		wait.until(ExpectedConditions
+				.elementToBeClickable(element))
+				.click();
 	};
 }
