@@ -27,7 +27,7 @@ public class LoginPage extends Base {
 
 //constructor
 
-	public LoginPage(WebDriver adriver) {
+	public LoginPage(WebDriver adriver) {//для всех констракторов необхлдимо исп WebDriver
 		driver = adriver;
 		assertEquals(title, driver.getTitle());
 
