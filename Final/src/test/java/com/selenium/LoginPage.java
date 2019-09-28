@@ -56,7 +56,7 @@ public class LoginPage extends Base {
 		return this;
 	}
 
-	public String getLogoutConfirmation() {
+	public String getConfirmation() {
 		return confirmLogout.getText();
 	}
 }

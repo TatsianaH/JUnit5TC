@@ -3076,3 +3076,201 @@ org.eclipse.core.runtime.CoreException: Launch configuration Main (2) references
 2019-09-27 12:22:14,246 [Worker-419: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
 2019-09-27 12:22:14,261 [Worker-419: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-09-27 12:22:14,261 [Worker-419: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 22:35:00,099 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 22:35:00,103 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 22:35:00,106 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 22:35:00,106 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 22:35:35,794 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 22:35:35,795 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 22:35:35,798 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 22:35:35,799 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 22:39:11,722 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 22:39:11,723 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 22:39:11,725 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 22:39:11,726 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 22:41:00,751 [Worker-470: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 22:41:00,752 [Worker-470: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 22:41:00,753 [Worker-470: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 22:41:00,754 [Worker-470: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 22:42:39,123 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 22:42:39,126 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 22:42:39,129 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 22:42:39,129 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 22:44:47,682 [Worker-472: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 22:44:47,684 [Worker-472: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 22:44:47,688 [Worker-472: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 22:44:47,688 [Worker-472: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 22:47:02,746 [Worker-470: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 22:47:02,747 [Worker-470: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 22:47:02,749 [Worker-470: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 22:47:02,749 [Worker-470: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 23:25:47,428 [Worker-480: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:25:47,430 [Worker-480: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 23:25:47,432 [Worker-480: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:25:47,432 [Worker-480: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 23:29:14,342 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:29:14,344 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 23:29:14,350 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:29:14,351 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 23:29:34,360 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:29:34,362 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 23:29:34,364 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:29:34,364 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 23:29:46,251 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:29:46,252 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 23:29:46,254 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:29:46,254 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 23:31:41,488 [Worker-474: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.selenium:Final:0.0.1-SNAPSHOT @ /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/pom.xml.
+2019-09-27 23:31:41,920 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:31:41,921 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 23:31:41,922 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:31:41,922 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 23:31:43,483 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:31:43,483 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 23:31:43,484 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:31:43,484 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 23:32:59,427 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:32:59,428 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 23:32:59,430 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:32:59,430 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 23:34:11,028 [Worker-485: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:34:11,030 [Worker-485: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 23:34:11,033 [Worker-485: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:34:11,033 [Worker-485: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 23:34:22,357 [Worker-485: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:34:22,359 [Worker-485: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 23:34:22,361 [Worker-485: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:34:22,361 [Worker-485: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 23:35:35,790 [Worker-483: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:35:35,791 [Worker-483: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 23:35:35,796 [Worker-483: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:35:35,797 [Worker-483: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 23:36:50,246 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:36:50,247 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 23:36:50,249 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:36:50,249 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-27 23:37:36,607 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:37:36,609 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-27 23:37:36,611 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-27 23:37:36,611 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-28 00:08:08,034 [Worker-483: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:08:08,036 [Worker-483: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-28 00:08:08,038 [Worker-483: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:08:08,038 [Worker-483: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-28 00:08:19,204 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:08:19,205 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/main/resources
+2019-09-28 00:08:19,206 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:08:19,207 [Worker-474: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/resources
+2019-09-28 00:08:54,711 [Worker-474: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/pom.xml
+2019-09-28 00:08:54,887 [Worker-474: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.selenium:Jenkins:0.0.1-SNAPSHOT @ /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/pom.xml.
+2019-09-28 00:08:55,018 [Worker-474: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Jenkins/src/main/java
+2019-09-28 00:08:55,030 [Worker-474: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Jenkins/src/test/java
+2019-09-28 00:08:55,110 [Worker-474: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2019-09-28 00:08:55,554 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:08:55,555 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:08:55,558 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:08:55,558 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:10:19,890 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:10:19,892 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:10:19,894 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:10:19,894 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:10:20,909 [Worker-488: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:10:20,909 [Worker-488: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:10:20,912 [Worker-488: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:10:20,912 [Worker-488: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:10:29,925 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:10:29,931 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:10:29,934 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:10:29,935 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:10:55,526 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:10:55,527 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:10:55,535 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:10:55,535 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:11:10,606 [Worker-489: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:11:10,607 [Worker-489: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:11:10,610 [Worker-489: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:11:10,610 [Worker-489: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:11:47,615 [Worker-489: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jsuite:Jsuites:0.0.1-SNAPSHOT @ /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/pom.xml.
+2019-09-28 00:11:47,790 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:11:47,791 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:11:47,793 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:11:47,793 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:11:48,971 [Worker-488: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:11:48,971 [Worker-488: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:11:48,973 [Worker-488: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:11:48,973 [Worker-488: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:12:10,310 [Worker-489: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jsuite:Jenkins:0.0.1-SNAPSHOT @ /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/pom.xml.
+2019-09-28 00:12:10,384 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:12:10,385 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:12:10,387 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:12:10,387 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:15:33,534 [Worker-491: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-09-28 00:15:34,103 [Worker-491: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jsuite:Jenkins:0.0.1-SNAPSHOT @ /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/pom.xml.
+2019-09-28 00:15:34,207 [Worker-491: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Jenkins/src/main/java
+2019-09-28 00:15:34,208 [Worker-491: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Jenkins/src/test/java
+2019-09-28 00:15:34,323 [Worker-491: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-09-28 00:15:34,481 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:15:34,482 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:15:34,484 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:15:34,484 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:17:23,622 [Worker-494: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jsuite:Jenkins:0.0.1-SNAPSHOT @ /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/pom.xml.
+2019-09-28 00:17:23,828 [Worker-494: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:17:23,828 [Worker-494: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:17:23,830 [Worker-494: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:17:23,830 [Worker-494: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:17:25,019 [Worker-494: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:17:25,019 [Worker-494: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:17:25,020 [Worker-494: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:17:25,020 [Worker-494: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:20:15,070 [Worker-492: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:20:15,071 [Worker-492: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:20:15,076 [Worker-492: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:20:15,077 [Worker-492: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:20:35,073 [Worker-496: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:20:35,075 [Worker-496: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:20:35,077 [Worker-496: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:20:35,077 [Worker-496: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:24:02,536 [Worker-498: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:24:02,539 [Worker-498: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:24:02,540 [Worker-498: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:24:02,540 [Worker-498: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:25:28,710 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:25:28,713 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:25:28,716 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:25:28,716 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:26:15,483 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:26:15,484 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:26:15,485 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:26:15,485 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:26:20,580 [Worker-498: Launching TestWithJenkins1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:26:20,581 [Worker-498: Launching TestWithJenkins1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:26:20,582 [Worker-498: Launching TestWithJenkins1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:26:20,582 [Worker-498: Launching TestWithJenkins1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:27:33,045 [Worker-492: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:27:33,046 [Worker-492: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:27:33,047 [Worker-492: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:27:33,047 [Worker-492: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:27:48,347 [Worker-498: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:27:48,347 [Worker-498: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:27:48,350 [Worker-498: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:27:48,350 [Worker-498: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:28:44,688 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:28:44,690 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:28:44,691 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:28:44,691 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:29:37,154 [Worker-497: Launching Executing test in _Users_tatsianahantsevich_Documents_Project_QA4_JUnit5TC_Jenkins] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins
+2019-09-28 00:29:37,156 [Worker-497: Launching Executing test in _Users_tatsianahantsevich_Documents_Project_QA4_JUnit5TC_Jenkins] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-09-28 00:29:53,344 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:29:53,345 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:29:53,347 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:29:53,347 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:30:59,305 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:30:59,305 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:30:59,306 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:30:59,306 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
+2019-09-28 00:31:05,149 [Worker-499: Launching Executing test in _Users_tatsianahantsevich_Documents_Project_QA4_JUnit5TC_Jenkins] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins
+2019-09-28 00:31:05,150 [Worker-499: Launching Executing test in _Users_tatsianahantsevich_Documents_Project_QA4_JUnit5TC_Jenkins] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-09-28 00:31:18,016 [Worker-498: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:31:18,017 [Worker-498: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/main/resources
+2019-09-28 00:31:18,019 [Worker-498: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-28 00:31:18,019 [Worker-498: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/resources
