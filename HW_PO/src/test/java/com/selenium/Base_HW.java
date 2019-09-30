@@ -6,19 +6,23 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class Base {
-
+public class Base_HW {
+	
 	protected WebDriver driver;
 
+	/*protected void clickElement(By element) {
+		WebDriverWait wait = new WebDriverWait(driver, 10);
+		wait.until(ExpectedConditions.elementToBeClickable(element)).click();
+	};
+	
 	protected void clickElement(WebElement element) {
 		WebDriverWait wait = new WebDriverWait(driver, 10);
-		wait.until(ExpectedConditions.elementToBeClickable(element)).click();
-	};
-
-	protected void clickElement(By element) {
+		wait.until(ExpectedConditions
+				.elementToBeClickable(element))
+				.click();
+	};*/
+	protected void stateEmplName(WebElement element) {
 		WebDriverWait wait = new WebDriverWait(driver, 10);
 		wait.until(ExpectedConditions.elementToBeClickable(element)).click();
 	};
-
-	
 }
