@@ -10,7 +10,7 @@ public class Base_HW {
 	
 	protected WebDriver driver;
 
-	/*protected void clickElement(By element) {
+	protected void clickElement(By element) {
 		WebDriverWait wait = new WebDriverWait(driver, 10);
 		wait.until(ExpectedConditions.elementToBeClickable(element)).click();
 	};
@@ -20,9 +20,6 @@ public class Base_HW {
 		wait.until(ExpectedConditions
 				.elementToBeClickable(element))
 				.click();
-	};*/
-	protected void stateEmplName(WebElement element) {
-		WebDriverWait wait = new WebDriverWait(driver, 10);
-		wait.until(ExpectedConditions.elementToBeClickable(element)).click();
 	};
+
 }
