@@ -83,7 +83,6 @@ INDEX VERSION 1.131+/Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/.me
 3781955935.index
 3818865454.index
 764418411.index
-1113152011.index
 1212239148.index
 25562656.index
 895724439.index
