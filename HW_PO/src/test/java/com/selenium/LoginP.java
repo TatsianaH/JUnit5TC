@@ -7,8 +7,6 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginP extends Base_HW {
 	private static String URL = "https://s2.demo.opensourcecms.com/orangehrm/symfony/web/index.php/auth/login";
-	// private String title =
-	// "https://s2.demo.opensourcecms.com/orangehrm/symfony/web/index.php/auth/login";
 
 //elements	
 	@FindBy(id = "txtUsername")
@@ -20,32 +18,45 @@ public class LoginP extends Base_HW {
 	@FindBy(id = "btnLogin")
 	private WebElement loginBtn;
 
-// services
+	@FindBy(id = "logInPanelHeading")
+	private WebElement confirmLogout;
+
+	@FindBy(id = "spanMessage")
+	private WebElement errorMessage;
+
+//constructor
+	public LoginP(WebDriver adriver) {
+		driver = adriver;
+	}
+
+//services
 	public static LoginP open(WebDriver driver) {
 		driver.get(URL);
 		return PageFactory.initElements(driver, LoginP.class);
 	}
 
-	/*
-	 * public LoginPage (WebDriver adriver) { adriver = driver; assertEquals(title,
-	 * driver.getTitle(), "This is not a Home page");
-	 * 
-	 * }
-	 */
-
 	public void submitLogin(String user, String pass) {
 		username.sendKeys(user);
 		password.sendKeys(pass);
-		loginBtn.click();
+		clickElement(loginBtn);
 	}
 
-	public HomeP validLogin(String user, String pass) throws Exception {
+	public HomeP validLogin(String user, String pass) {
 		submitLogin(user, pass);
 		return PageFactory.initElements(driver, HomeP.class);
-
 	}
 
-	public String getConfirmation() {
-		return loginBtn.getText();
+	public LoginP invalidLogin(String user, String pass) {
+		submitLogin(user, pass);
+		return this;
 	}
+
+	public String getLogoutConfirmation() {
+		return confirmLogout.getText();
+	}
+
+	public String getErrorMessage() {
+		return errorMessage.getText();
+	}
+
 }

@@ -3,6 +3,8 @@
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
 			<item value="/Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC"/>
+			<item value="/Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Jenkins/src/test/java/com/selenium/TestWithJenkins2.java"/>
+			<item value="/Users/tatsianahantsevich/Documents/Project_QA4/JUnit5TC/Final/src/test/java/com/selenium/ddt.csv"/>
 			<item value="/Users/tatsianahantsevich/Documents/EclipseProjects/Honey"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -28,22 +30,12 @@
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
 			<item value="com.selenium"/>
-			<item value="com.unit_test"/>
-			<item value="com.pasv"/>
-			<item value="com.abbreviate"/>
-			<item value="Links"/>
 		</list>
 		<list key="groupId">
 			<item value="com.selenium"/>
-			<item value="com"/>
-			<item value="com.pasv"/>
-			<item value="com.abbreviate"/>
 		</list>
 		<list key="artifactId">
-			<item value="Final"/>
-			<item value="unit_test"/>
-			<item value="Abbreviate"/>
-			<item value="Links"/>
+			<item value="HW_PO"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

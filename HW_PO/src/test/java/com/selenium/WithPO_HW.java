@@ -24,15 +24,19 @@ class WithPO_HW {
 	}
 
 	@Test
-	void test() throws Exception {
-		HomeP homePage = LoginP.open(driver).validLogin("opensourcecms", "opensourcecms");
-		
-		assertEquals("No Records Found", homePage.getRecordText("John Lennon"));
-		
-		assertEquals("Logout", homePage.getLoginConfirmation());
-		LoginP loginPage = homePage.logout();
-		assertEquals("LOGIN", loginPage.getConfirmation());
-	
+	void searchEmployeeName() {
+        HomeP homePage = LoginP.open(driver)
+                                     .validLogin("opensourcecms", "opensourcecms");
+        assertTrue(homePage.getLoginPageConfirmation().contains("Welcome"));
 
-}
+        FramePage framePage = homePage.switchFramePage()
+                                      .searchEmployee("John Lennon");
+        assertTrue(framePage.getSearchResult().contains("No Records Found"));
+
+        framePage.logout();
+        assertTrue(homePage.getLoginPageConfirmation().contains("Welcome"));
+
+        LoginP loginPage = homePage.logout();
+        assertTrue(loginPage.getLogoutConfirmation().contains("LOGIN Panel"));
+    }
 }

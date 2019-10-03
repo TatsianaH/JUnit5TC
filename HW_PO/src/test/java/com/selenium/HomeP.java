@@ -12,41 +12,35 @@ public class HomeP extends Base_HW {
 	private String title = "OrangeHRM";
 
 	// elements
-	@FindBy(id = "empsearch_employee_name_empName")
-	private WebElement employeeName;
-	@FindBy(id = "searchBtn")
-	private WebElement searchBtn;
-	@FindBy(tagName = "td")
-	private WebElement record;
-	@FindBy(xpath = "//div[@id='option-menu-bar']//li[3]//a[1]")
-	private WebElement logoutLink;
+	 @FindBy(id = "option-menu")
+	    private WebElement confirmLogin;
 
-//constructor
-	public HomeP(WebDriver adriver) {
-		adriver = driver;
-		assertEquals(title, driver.getTitle(), "This is not a Home page");
-	}
+	    @FindBy(id = "rightMenu")
+	    private WebElement iframe;
 
-//services	
-	public void enterName(String name) throws Exception {
-		//clickElement(element);
-		employeeName.sendKeys(name);
-		searchBtn.click();
-	}
+	    @FindBy(xpath = "//a[contains(text(),'Logout')]")
+	    private WebElement logoutButton;
 
-	public String getRecordText(String name) throws Exception {
+	    //constructor
+	    public HomeP(WebDriver adriver) {
+	        driver = adriver;
+	        assertEquals(title, driver.getTitle(), "This is not the Home Page");
+	    }
 
-		enterName( name);
-		return record.getText();
-	}
+	    //services
+	    public LoginP logout() {
+	        clickElement(logoutButton);
+	        return PageFactory.initElements(driver, LoginP.class);
+	    }
 
-	public String getLoginConfirmation() {
-		return logoutLink.getText();
-	}
+	    public FramePage switchFramePage() {
+	        driver.switchTo().frame(iframe);
+	        return PageFactory.initElements(driver, FramePage.class);
+	    }
 
-	public LoginP logout() {
-		logoutLink.click();
-		return PageFactory.initElements(driver, LoginP.class);
-	}
+	    public String getLoginPageConfirmation(){
+	        return confirmLogin.getText();
+	    }
+
 
 }
